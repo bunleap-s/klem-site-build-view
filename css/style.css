@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Battambang&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nokora&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nokora:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.battambang-font-regular {
+	font-family: 'Battambang', cursive;
+}
+
+.koulen-font-regular {
+	font-family: 'Koulen', cursive;
+}
+
+.nokora-regular {
+	font-family: 'Nokora', 'Poppins';
+}
+
+.nokora-bold {
+	font-family: 'Nokora', serif;
+	font-weight: 700;
+}
+
+.dark-background {
+	background-color: #ecf0f1;
+}
