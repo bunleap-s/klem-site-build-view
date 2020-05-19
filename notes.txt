@@ -1,0 +1,24 @@
+<link rel="stylesheet" href="dist/lazyembed.css">
+<script src="dist/lazyembed.js"></script>
+
+<iframe
+  width="560"
+  height="420"
+  frameborder="0"
+  data-lazyembed
+  data-src="https://www.youtube.com/embed/XTYVQRdLfH0"
+  data-placeholder="https://img.youtube.com/vi/XTYVQRdLfH0/0.jpg"
+  allowfullscreen
+></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/61g6UQxhi2w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<button type="button" class="btn btn-success battambang-font-regular"><i
+					class="fas fa-angle-double-right"></i> ការផ្សាយផ្ទាល់របស់ KLEM</button>
+
+			<button type="button" class="btn btn-danger battambang-font-regular"><i
+					class="fas fa-angle-double-right"></i> អំពីខ្លឹម</button>
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsuicidesheepanime%2Fvideos%2F555572242059258%2F&width=0" width="0" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+690431915123368
